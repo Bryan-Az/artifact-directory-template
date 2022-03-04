@@ -1,5 +1,7 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Understanding Higgs Boson Particle Jets with Graph Neural Networks
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Extending the content of last quarter of deep sets neural network, fully connected neural network classifier, adversarial deep set model and designed decorrelated tagger (DDT), we went a little bit further this quarter about picking up different layers in neural network like GENConv and EdgeConv. GENConv and EdgeConv play incredibly important roles here for boosting the performances of our basic GNN model. We also evaluated the performance of our model using ROC (Receiver-Operating Curve) curves describing AUC (Area Under the Curve). Meanwhile, based on previous experiences of project one and past project of particle physics domain, we decided to add one more section, exploratory data analysis in our project for conducting some basic theory, bootstrapping or common sense of our dataset. 
+But we have not produced all the optimal outcomes so far even though we finished the EdgeConv part and for the following weeks, we would like to finish the GENConv and may try some other layers to find out the potential to increase the performance of our model.
+

@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/Bryan-Az/artifact-directory-template",
+    "project-repository": "https://github.com/Bryan-Az/DSC-Capstone-Result-Replication",
+    "dockerhub-repository": "jmduarte/capstone-particle-physics-domain:latest",
+    "project-website-url": "http://www.bambriz.me/wp-content/uploads/2022/02/dsc180b.html",
+    "project-website-code": "https://github.com/Bryan-Az/DSC-Capstone-Result-Replication/tree/main/docs"
 }
